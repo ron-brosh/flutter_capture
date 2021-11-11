@@ -11,6 +11,7 @@ By the way, if you want to make it clickable just replace the **.sh** extension 
 The folder where youu double clicked the file will be the destination folder for the result files.
 
 Please also note, I tested only on macOS if you find any issues on other platforms feel free to contribute to this script.
+Please also note, on mac OS you won't be able to run it if you just download so create a new file and copy paste the content and follow the instructions from above.
 
 ![screen_capture](https://user-images.githubusercontent.com/10864805/141283738-21c281ed-12e6-4742-86ff-5eb08827760f.jpg)
 
